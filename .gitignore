@@ -1,0 +1,11 @@
+# Build products
+build/
+DerivedData/
+
+# macOS
+.DS_Store
+
+# Swift / Xcode
+.swiftpm/
+*.xcuserstate
+xcuserdata/
